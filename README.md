@@ -1,4 +1,3 @@
-# CHEME5440 Spring 2020 PS3
 
 In PS3-1a_and_2.jl: Includes stoichiometric matrix and estimates urea max. production rate.
 --------------------
