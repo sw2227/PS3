@@ -6,6 +6,7 @@
 # ------------------------------------------------------------------- #
 
 using LinearAlgebra
+stoichiometric_matrix = Array{Float64,2}(undef,18,21)
 #Carbomoyl-p
 stoichiometric_matrix[1,:] = [0 0 0 -1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0];
 #Citrulline
